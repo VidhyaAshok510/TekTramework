@@ -10,7 +10,7 @@ public class CreateContactTest {
 		
 		String BROWSER= System.getProperty("browser");
 		String URL= System.getProperty("url");
-		String USERNAME= System.getProperty("un");
+		String USERNAME= System.getProperty("username");
 		System.out.println(BROWSER);
 		System.out.println(URL);
 		System.out.println(USERNAME);
@@ -20,10 +20,6 @@ public class CreateContactTest {
 		System.out.println("Modified contact");
 		
 	}
-	@Test
-	public void deleteTest(){
-		System.out.println("Deleteded contact");
-		
-	}
+	
 
 }
