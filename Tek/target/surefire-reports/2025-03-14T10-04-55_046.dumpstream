@@ -1,0 +1,4 @@
+# Created at 2025-03-14T10:04:55.485
+Boot Manifest-JAR contains absolute paths in classpath 'D:\documents\Tek\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
