@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-18T12:11:34 IST" name="Surefire suite" finished-at="2025-03-18T12:11:34 IST" duration-ms="56">
+  <suite started-at="2025-03-18T12:15:34 IST" name="Suite" finished-at="2025-03-18T12:15:34 IST" duration-ms="43">
     <groups>
     </groups>
-    <test started-at="2025-03-18T12:11:34 IST" name="Surefire test" finished-at="2025-03-18T12:11:34 IST" duration-ms="56">
+    <test started-at="2025-03-18T12:15:34 IST" name="Test" finished-at="2025-03-18T12:15:34 IST" duration-ms="43">
       <class name="orgTest.CreateOrgTest">
-        <test-method signature="createTest()[pri:0, instance:orgTest.CreateOrgTest@659a969b]" started-at="2025-03-18T12:11:34 IST" name="createTest" finished-at="2025-03-18T12:11:34 IST" duration-ms="0" status="PASS">
+        <test-method signature="createTest()[pri:0, instance:orgTest.CreateOrgTest@67d48005]" started-at="2025-03-18T12:15:34 IST" name="createTest" finished-at="2025-03-18T12:15:34 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTest -->
-        <test-method signature="modifyTest()[pri:0, instance:orgTest.CreateOrgTest@659a969b]" started-at="2025-03-18T12:11:34 IST" name="modifyTest" finished-at="2025-03-18T12:11:34 IST" duration-ms="1" status="PASS">
+        <test-method signature="modifyTest()[pri:0, instance:orgTest.CreateOrgTest@67d48005]" started-at="2025-03-18T12:15:34 IST" name="modifyTest" finished-at="2025-03-18T12:15:34 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyTest -->
       </class> <!-- orgTest.CreateOrgTest -->
       <class name="contactTest.CreateContactTest">
-        <test-method signature="createTest()[pri:0, instance:contactTest.CreateContactTest@7ce3cb8e]" started-at="2025-03-18T12:11:34 IST" name="createTest" finished-at="2025-03-18T12:11:34 IST" duration-ms="6" status="PASS">
+        <test-method signature="createTest()[pri:0, instance:contactTest.CreateContactTest@6572421]" started-at="2025-03-18T12:15:34 IST" name="createTest" finished-at="2025-03-18T12:15:34 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTest -->
-        <test-method signature="modifyTest()[pri:0, instance:contactTest.CreateContactTest@7ce3cb8e]" started-at="2025-03-18T12:11:34 IST" name="modifyTest" finished-at="2025-03-18T12:11:34 IST" duration-ms="2" status="PASS">
+        <test-method signature="modifyTest()[pri:0, instance:contactTest.CreateContactTest@6572421]" started-at="2025-03-18T12:15:34 IST" name="modifyTest" finished-at="2025-03-18T12:15:34 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyTest -->
       </class> <!-- contactTest.CreateContactTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
